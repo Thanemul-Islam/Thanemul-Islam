@@ -4,7 +4,6 @@
 - 🌱 I’m currently working on creating a 2d Platformer Game to publish on the App Store
 - 👯 I’m looking to collaborate on mobile applications and on web development
 - ⚡ Fun fact: My High School graduation ceremony was just a YouTube video
-- 💬 Ask me about how much I despise onions
 - 📫 How to reach me: thanemul.islam@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 ## Skills
