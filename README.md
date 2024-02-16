@@ -14,5 +14,5 @@
 - 💽 MySQL, SQL
 
 ## Contact
-- [thanemulislam.com](thanemulislam.com)
+- [ThanemulIslam.com](thanemulislam.com) my Personal Portfolio Website
 - [Thanemul Islam](https://www.linkedin.com/in/thanemulislam) on Linkedin
