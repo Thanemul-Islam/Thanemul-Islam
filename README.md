@@ -15,4 +15,4 @@
 
 ## Contact
 - [thanemulislam.com](thanemulislam.com)
-- [Thanemul Islam](https://twitter.com/martonlederer](https://www.linkedin.com/in/thanemulislam) on Linkedin
+- [Thanemul Islam](https://www.linkedin.com/in/thanemulislam) on Linkedin
