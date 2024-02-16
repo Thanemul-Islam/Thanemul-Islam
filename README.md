@@ -1,28 +1,18 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Thanemul Islam" />
-</h1>
-
-## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
-
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
-
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
-
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
-
-+ a lot more ;)
-
+### Hi there 👋
+ - 😄 Pronouns: He/Him
+- 🔭 I’m currently working on becoming a full-time Software Developer
+- 🌱 I’m currently working on creating a 2d Platformer Game to publish on the App Store
+- 👯 I’m looking to collaborate on mobile applications and on web development
+- ⚡ Fun fact: My High School graduation ceremony was just a YouTube video
+- 💬 Ask me about how much I despise onions
+- 📫 How to reach me: thanemul.islam@gmail.com
+<!-- - 🤔 I’m looking for help with ... -->
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
+- 👨‍💻 Python · HTML/CSS · C++ · JavaScript · Java · C# · Swift 
+- ⚙️ Git · AWS · Microsoft Office · React Native · Android Studio · NodeJS · MongoDB 
+- 👁️ CSS
+- 💽 MySQL, SQL
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [thanemulislam.com](thanemulislam.com)
+- [Thanemul Islam]([https://twitter.com/martonlederer](https://www.linkedin.com/in/thanemulislam)) on Linkedin
